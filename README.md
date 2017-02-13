@@ -1,8 +1,6 @@
-# 24haowan-vote
-
 > A Vue.js project
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
@@ -17,6 +15,6 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## 投票模板-静态
+### 投票模板-静态
 
-### 技术栈 webpack+vue2.0
+#### 技术栈 webpack+vue2.0
